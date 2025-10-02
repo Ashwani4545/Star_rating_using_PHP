@@ -1,4 +1,5 @@
 ⭐ Star Rating System using PHP
+
 A simple star rating system built with PHP, MySQL, HTML, CSS, and JavaScript (AJAX).
 It allows users to rate items (like products, articles, or movies) and displays the average rating dynamically.
 
@@ -17,6 +18,7 @@ It allows users to rate items (like products, articles, or movies) and displays 
 ---
 
 🚀 Features
+
 • Users can submit a rating (1 to 5 stars).
 • Real-time rating updates using AJAX (no page reload).
 • Ratings stored in MySQL database.
@@ -26,6 +28,7 @@ It allows users to rate items (like products, articles, or movies) and displays 
 ---
 
 📂 Project Structure
+
 star-rating-php/
 │── index.php # Main page to display items and ratings
 │── rate.php # Handles rating submissions
@@ -69,6 +72,7 @@ star-rating-php/
 ---
 
 ▶ Usage
+
 • Open index.php in the browser.
 • Click on a star to submit your rating.
 • See the average rating and number of votes update instantly.
@@ -76,6 +80,7 @@ star-rating-php/
 ---
 
 🎨 Technologies Used
+
 • Frontend: HTML, CSS, JavaScript
 • Backend: PHP
 • Database: MySQL
@@ -84,6 +89,7 @@ star-rating-php/
 ---
 
 🔮 Future Enhancements
+
 • ✅ User authentication for personalized ratings.
 • ✅ Admin panel to manage ratings.
 • ✅ Allow multiple items/products with separate ratings.
@@ -92,5 +98,7 @@ star-rating-php/
 ---
 
 📜 License
+
 This project is licensed under the MIT License.
 You can freely use and modify it for your projects.
+
